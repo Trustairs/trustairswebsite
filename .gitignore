@@ -1,0 +1,5 @@
+desktop.ini
+.claude/
+*.tmp
+Thumbs.db
+.DS_Store
